@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Craigslist Project
+## Craigslist Project Structure
 
 *Default Structure for A Basic Project*
 
